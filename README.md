@@ -1,4 +1,4 @@
-# Surfs_up
+# Surfs_Up
 ## Overview of the analysis:
 
 ### Background:
